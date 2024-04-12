@@ -1,5 +1,6 @@
 console.log('hi')
 const user = {
-  name: 'elbert'
+  name: 'elbert',
+  password: 'abc'
 }
 
